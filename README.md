@@ -1,2 +1,2 @@
 # RoanokeGit
-Code and slides for git presentation
+Code and slides for **git** presentation
