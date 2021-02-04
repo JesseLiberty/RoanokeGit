@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoanokeGit", "RoanokeGit\RoanokeGit.csproj", "{DBFEB7F7-9CFD-4393-B756-B0EC97090E2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBFEB7F7-9CFD-4393-B756-B0EC97090E2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBFEB7F7-9CFD-4393-B756-B0EC97090E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBFEB7F7-9CFD-4393-B756-B0EC97090E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBFEB7F7-9CFD-4393-B756-B0EC97090E2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63AD53A6-FF64-4696-931A-475193643520}
+	EndGlobalSection
+EndGlobal
