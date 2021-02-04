@@ -18,5 +18,21 @@ namespace RoanokeGit
         {
             return left * right;
         }
+        public int divide(int left, int right)
+        {
+            return left / right;
+        }
+
+        public int modulus(int left, int right)
+        {
+            return left % right;
+        }
+
+        public double division(double left, double right)
+        {
+            return left % right;
+        }
+
+
     }
 }
